@@ -1,0 +1,24 @@
+.calculator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer-box{
+    width: 200px;
+    border: .5px solid rgb(215, 209, 209);
+    border-radius: 10px;
+}
+.display-box{
+    height: 30px;
+    margin: 13px;
+}
+.keywords{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.btn{
+    height: 40px;
+    width: 40px;
+    margin: 6px;
+}

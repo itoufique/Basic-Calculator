@@ -1,3 +1,6 @@
+body{
+    background-color: #7DAACB;
+}
 .calculator{
     display: flex;
     justify-content: center;
@@ -5,7 +8,7 @@
 }
 .outer-box{
     width: 200px;
-    border: .5px solid rgb(215, 209, 209);
+    border: 2px solid #E8DBB3;
     border-radius: 10px;
 }
 .display-box{
